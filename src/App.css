@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+
+.cardw{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  margin: auto;
+ 
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.cardflag{
+
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 400px; */
+  margin: auto;
+ 
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 30px;
+ 
+
+}
+.btn{
+  margin-bottom: 30px;
+}
+
+.h3{
+  color: blue;
+}
